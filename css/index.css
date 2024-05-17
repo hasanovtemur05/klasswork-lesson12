@@ -22,7 +22,11 @@ section{
 }
 nav{
     display: flex;
-    margin-top: 10px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
 }
 header{
     width: 100%;
@@ -107,6 +111,10 @@ footer .box2{
     display: flex;
     justify-content: center;
     align-items: center;
+   
+}
+h3{
+    color: white ;
 }
 .box2 i{
     padding: 0px 10px;
